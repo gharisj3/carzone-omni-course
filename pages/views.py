@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from .models import Team
 from cars.models import Car
+
 # Create your views here.
 
 def home(request):
